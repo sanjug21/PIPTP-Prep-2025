@@ -1,0 +1,16 @@
+# Week1 - Day 1
+
+## Problems - PseudoCode practice (Accenture)
+- [Problem 1 - (Modulo Operations)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem1.md)
+- [Problem 2 - (While Loop)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem2.md)
+- [Problem 3 - (Recursive Function)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem3.md)
+- [Problem 4 - (Bitwise XOR)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem4.md)
+- [Problem 5 - (Modulo with Loop)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem5.md)
+- [Problem 6 - (Recursive Tree)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem6.md)
+- [Problem 7 - (Simple Function)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem7.md)
+- [Problem 8 - (Bitwise Operations)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem8.md)
+- [Problem 9 - (Loop with Conditions)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem9.md)
+- [Problem 10 - (Basic Operations)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem10.md)
+- [Problem 11 - (Bitwise Logic)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem11.md)
+- [Problem 12 - (Complex Operations)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem12.md)
+- [Problem 13 - (Name Formatter Program)](https://github.com/Kaustubh-verma-891/PIPTP-Prep-2025/blob/main/Week1/Day1/Problem13.md)
